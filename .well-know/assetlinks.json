@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.alicorp.alimarket.qa",
+            "sha256_cert_fingerprints": [
+                "A2:D0:3D:D6:9F:CC:22:94:64:4E:E8:D8:B7:36:BD:25:EE:17:F9:CB:E1:48:62:5B:BC:43:74:A2:0B:A0:D5:24"
+            ]
+        }
+    }
+]
